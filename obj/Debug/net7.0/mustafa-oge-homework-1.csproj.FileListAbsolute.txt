@@ -1,0 +1,14 @@
+D:\Patika\Hafta-1\mustafa-oge-homework-1\bin\Debug\net7.0\mustafa-oge-homework-1.exe
+D:\Patika\Hafta-1\mustafa-oge-homework-1\bin\Debug\net7.0\mustafa-oge-homework-1.deps.json
+D:\Patika\Hafta-1\mustafa-oge-homework-1\bin\Debug\net7.0\mustafa-oge-homework-1.runtimeconfig.json
+D:\Patika\Hafta-1\mustafa-oge-homework-1\bin\Debug\net7.0\mustafa-oge-homework-1.dll
+D:\Patika\Hafta-1\mustafa-oge-homework-1\bin\Debug\net7.0\mustafa-oge-homework-1.pdb
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\mustafa-oge-homework-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\mustafa-oge-homework-1.AssemblyInfoInputs.cache
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\mustafa-oge-homework-1.AssemblyInfo.cs
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\mustafa-oge-homework-1.csproj.CoreCompileInputs.cache
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\mustafa-oge-homework-1.dll
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\refint\mustafa-oge-homework-1.dll
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\mustafa-oge-homework-1.pdb
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\mustafa-oge-homework-1.genruntimeconfig.cache
+D:\Patika\Hafta-1\mustafa-oge-homework-1\obj\Debug\net7.0\ref\mustafa-oge-homework-1.dll
